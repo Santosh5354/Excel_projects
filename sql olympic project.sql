@@ -1,7 +1,6 @@
 create database olympics;
 use olympics;
 select * from athlets_events;
-select * from noc_regions;
 
 --- 1 . List down all the Olympic games held so far.
 select distinct games from athlets_events;
