@@ -1,1 +1,1 @@
-# Excel_projects
+# SQL_Project_Olympic_Games_Analysis
